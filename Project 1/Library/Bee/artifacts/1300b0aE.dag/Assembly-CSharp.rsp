@@ -529,6 +529,7 @@
 "Assets/Oculus/SampleFramework/Usage/TouchPro/Scripts/Ui/UiVectorInspector.cs"
 "Assets/Oculus/Voice/Lib/Wit.ai/AssemblyInfo.cs"
 "Assets/Scripts/Spawner.cs"
+"Assets/Scripts/Teleport.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs"
